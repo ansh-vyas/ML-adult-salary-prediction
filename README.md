@@ -1,4 +1,3 @@
-# ML-adult-salary-prediction
 # Adult Salary Prediction
 
 ## Overview
